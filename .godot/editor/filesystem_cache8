@@ -1,11 +1,11 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1710107554
+::res://::1713746969
 ::res://assets/::1708301647
-::res://assets/actors/::1710107435
-player.gd::GDScript::-1::1710107337::0::1::::<>CharacterBody2D<>::
-player.tscn::PackedScene::4016025913963873694::1710107435::0::1::::<><>::res://assets/actors/player.gd<>uid://clw4tatpup72h::::res://src/sprites/loose_sprites_gbstudio-removebg-preview.png
-::res://assets/scenes/::1710107435
-test.tscn::PackedScene::2715406225865441668::1710107435::0::1::::<><>::uid://bxhnmihtp1mti::::res://assets/actors/player.tscn
+::res://assets/actors/::1710110859
+player.gd::GDScript::-1::1710109249::0::1::::<>CharacterBody2D<>::
+player.tscn::PackedScene::4016025913963873694::1710110859::0::1::::<><>::res://assets/actors/player.gd<>uid://clw4tatpup72h::::res://src/sprites/loose_sprites_gbstudio-removebg-preview.png
+::res://assets/scenes/::1710110859
+test.tscn::PackedScene::2715406225865441668::1710110859::0::1::::<><>::uid://bxhnmihtp1mti::::res://assets/actors/player.tscn
 ::res://src/::1708301149
 ::res://src/audio/::1708301096
 ::res://src/fonts/::1708301089
